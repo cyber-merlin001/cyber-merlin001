@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sankalpa (@cyber-merlin001)
+# 👋 Hi, I'm @cyber-merlin
 
 ## 💻 About Me
 I'm a software developer passionate about creating practical solutions for real-world problems. Currently focused on desktop application development and database management systems.
